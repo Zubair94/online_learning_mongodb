@@ -1,0 +1,12 @@
+{
+    "_id": "ObjectId",
+    "completed": "Boolean",
+    "completedPercent": "Number",
+    "view_count": "Number",
+    "section_id": "Number",
+    "lecture_id": "Number",
+    "course_id": "ObjectId, Reference: courses",
+    "user_id": "ObjectId, Reference: users",
+    "created_at": "Date",
+    "updated_at": "Date"
+}

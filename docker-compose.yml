@@ -1,0 +1,25 @@
+version: '3.7'
+services:
+  database: 
+    image: mongo
+    container_name: online-learning-db
+    env_file: .env
+    environment:
+      - db=${db}
+      - rootuser=${rootuser}
+      - rootpassword=${rootpassword}
+      - dbuser=${dbuser}
+      - dbpassword=${dbpassword}
+    volumes:
+      - './backups/mongobackups:/var/backups/mongobackups'
+      - './mongo-init.sh:/docker-entrypoint-initdb.d/mongo-init.sh'
+    ports: 
+      - '27017:27017'
+    networks:
+      - onlinelearningnetwork
+    restart: unless-stopped
+
+networks:
+    onlinelearningnetwork:
+        name: onlinelearningnetwork
+        driver: bridge

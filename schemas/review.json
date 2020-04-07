@@ -1,0 +1,9 @@
+{
+    "_id": "ObjectId",
+    "rating_text": "String",
+    "rating": "Number",
+    "course_id": "ObjectId, Reference: courses",
+    "user_id": "ObjectId, Reference: users",
+    "created_at": "Date",
+    "updated_at": "Date"
+}

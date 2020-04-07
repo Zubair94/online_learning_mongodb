@@ -1,0 +1,59 @@
+{
+    "_id": "ObjectId",
+    "title": "String",
+    "slug": "String",
+    "metadata": {
+        "section_count": "Number",
+        "sections": [
+            {
+                "lecture_count": "Number"
+            }
+        ]
+    },
+    "short_description": "String",
+    "description": "String",
+    "preview_video": "String",
+    "preview_video_thumbnail": "String",
+    "images": [
+        {
+            "link": "String",
+            "sort_order": "Number"
+        }
+    ],
+    "price": "Number",
+    "duration": "Number",
+    "featured": "Boolean",
+    "sections": [
+        {
+            "_id": "ObjectId",
+            "section_id": "Number",
+            "slug": "String",
+            "title": "String",
+            "description": "String",
+            "duration": "Number",
+            "sort_order": "Number",
+            "lectures": [
+                {
+                    "_id": "ObjectId",
+                    "lecture_id": "Number",
+                    "slug": "String",
+                    "title": "String",
+                    "description": "String",
+                    "duration": "Number",
+                    "video": "String",
+                    "video_thumbnail": "String",
+                    "sort_order": "Number"
+                }
+            ]
+        }
+    ],
+    "assessment": [
+        {
+            "question": "String",
+            "options": ["String"],
+            "answer": "String"
+        }
+    ],
+    "created_at": "Date",
+    "updated_at": "Date"
+}
