@@ -6,16 +6,16 @@
     "mobile": "String",
     "password": "String",
     "age": "Number",
-    "gender": "String",
-    "auth_level": "String",
+    "gender": "String, enum=male,female",
+    "auth_level": "String, enum=user,teacher",
     "location": "String",
     "institute_name": "String",
-    "institute_type": "String, enum=School,University,College,Others",
+    "institute_type": "String, enum=school,university,college,others",
     "short_bio": "String",
     "bio": "String",
     "image": "String",
     "verified": "Boolean",
-    "courses_enrolled:": [
+    "courses_enrolled": [
         {
             "course": "ObjectId, Reference: courses",
             "enrolled_on": "Date"

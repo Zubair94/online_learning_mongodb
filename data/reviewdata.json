@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "5e92f930c1352d44b0954b72",
+    "rating_text": "Sit cum consequatur voluptatem ex voluptatem.\nQuis nihil autem a rerum modi.\nEst qui fugiat in autem.",
+    "rating": 5,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bda",
+    "created_at": "2020-04-11T22:17:13.034Z",
+    "updated_at": "2020-04-12T02:52:31.325Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b73",
+    "rating_text": "Itaque consequatur aut neque fugit.\nQuidem iusto est.\nNobis fugit placeat vel.\nQuidem voluptas quo nemo quibusdam qui.\nRem sunt similique.",
+    "rating": 5,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bdc",
+    "created_at": "2020-04-11T23:19:10.226Z",
+    "updated_at": "2020-04-11T13:49:19.856Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b74",
+    "rating_text": "Et sit enim voluptas quibusdam molestiae molestiae reprehenderit magnam ipsa.\nIusto doloremque quo tenetur quidem aliquam non occaecati.\nAccusantium libero ipsa.",
+    "rating": 5,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bd4",
+    "created_at": "2020-04-11T16:33:17.615Z",
+    "updated_at": "2020-04-11T22:53:44.561Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b75",
+    "rating_text": "Non sunt odit voluptatibus a autem quia animi.\nReprehenderit tempore possimus neque est dolorem illo qui.\nModi quos et hic.\nConsequatur provident magni repellat et.",
+    "rating": 5,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd3",
+    "created_at": "2020-04-11T17:56:16.788Z",
+    "updated_at": "2020-04-11T23:49:27.799Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b76",
+    "rating_text": "Cum et ipsam in nostrum quidem maiores placeat id tempore.\nQuis quasi dolorem et sit.\nFugit dolorem non sed.\nMaxime quis minima temporibus cum sunt enim consequuntur.\nIpsa earum molestias.",
+    "rating": 5,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd8",
+    "created_at": "2020-04-11T12:01:21.733Z",
+    "updated_at": "2020-04-11T14:54:55.704Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b77",
+    "rating_text": "Molestiae dolores omnis veritatis ut consectetur aspernatur amet at.\nAccusantium quia odio architecto.\nOdio in velit incidunt.",
+    "rating": 5,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bd1",
+    "created_at": "2020-04-12T11:10:01.335Z",
+    "updated_at": "2020-04-12T08:14:20.965Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b78",
+    "rating_text": "Et optio voluptatem.\nVero repudiandae laudantium iste quasi.",
+    "rating": 4,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd2",
+    "created_at": "2020-04-11T20:10:00.683Z",
+    "updated_at": "2020-04-11T17:56:56.589Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b79",
+    "rating_text": "Sed esse nulla consequatur molestiae ut ut laborum.\nFugiat vero voluptate voluptate commodi pariatur corporis quibusdam.\nQuibusdam iure et aspernatur voluptatum nulla.\nAutem vel rem non quasi reprehenderit et.\nPlaceat qui temporibus et ea reiciendis illum dicta.",
+    "rating": 2,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bdc",
+    "created_at": "2020-04-11T17:38:55.783Z",
+    "updated_at": "2020-04-12T07:39:24.887Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b7a",
+    "rating_text": "Non omnis ut id similique nobis aut distinctio ut in.\nSimilique asperiores in quia aliquam accusamus eveniet.\nAt nam aspernatur quod.\nHarum vel eum doloribus voluptates ab ipsum perferendis perspiciatis.",
+    "rating": 4,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bda",
+    "created_at": "2020-04-12T10:15:29.079Z",
+    "updated_at": "2020-04-11T12:15:15.470Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b7b",
+    "rating_text": "Qui autem labore consequuntur facilis totam perferendis aut quia nam.\nMaxime non qui ipsum.\nNulla non possimus sed.",
+    "rating": 1,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bda",
+    "created_at": "2020-04-11T22:49:23.569Z",
+    "updated_at": "2020-04-12T07:29:29.771Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b7c",
+    "rating_text": "Tenetur accusamus necessitatibus qui veritatis deserunt optio qui tenetur.\nPorro voluptas nesciunt ut.\nEx consequuntur et ipsam eos itaque corporis.\nCulpa impedit qui corrupti cupiditate quis.\nEa magni explicabo.",
+    "rating": 1,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bdb",
+    "created_at": "2020-04-12T00:15:02.224Z",
+    "updated_at": "2020-04-11T14:49:25.155Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b7d",
+    "rating_text": "Delectus consequatur possimus qui dolores sequi est recusandae at similique.\nVoluptatem aut laboriosam minus accusamus aut.",
+    "rating": 2,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bd8",
+    "created_at": "2020-04-11T17:54:11.864Z",
+    "updated_at": "2020-04-11T13:48:45.201Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b7e",
+    "rating_text": "Soluta qui optio omnis est.\nArchitecto repellendus doloribus aut in dolorem ipsum voluptatem deserunt dolores.",
+    "rating": 5,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bdc",
+    "created_at": "2020-04-12T08:19:00.342Z",
+    "updated_at": "2020-04-12T05:58:38.172Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b7f",
+    "rating_text": "Amet quidem vero enim voluptas nam ipsam omnis consequuntur repellendus.\nQuam explicabo aspernatur quasi in.\nVoluptatem explicabo quae alias rerum sed in totam.",
+    "rating": 2,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd6",
+    "created_at": "2020-04-12T08:59:57.214Z",
+    "updated_at": "2020-04-12T05:11:59.453Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b80",
+    "rating_text": "Ut quo alias voluptatem.\nVoluptas voluptatem doloremque.\nEsse sequi error molestias eius deleniti laboriosam eaque placeat.\nDelectus illum aut eos laboriosam velit quae.\nEum sint quia sapiente quidem tempora incidunt quod quia vero.",
+    "rating": 5,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd7",
+    "created_at": "2020-04-11T22:35:51.153Z",
+    "updated_at": "2020-04-11T18:57:50.472Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b81",
+    "rating_text": "Totam porro non sit ea soluta.\nOdit at assumenda tempora incidunt sapiente enim voluptate est impedit.",
+    "rating": 1,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd6",
+    "created_at": "2020-04-11T13:30:16.514Z",
+    "updated_at": "2020-04-11T12:21:32.061Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b82",
+    "rating_text": "Non necessitatibus at praesentium eius.\nFugiat porro veniam est voluptas.\nRerum occaecati ut voluptatem corporis harum consequatur est.\nMinima magnam possimus maxime enim provident rerum.",
+    "rating": 3,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bdb",
+    "created_at": "2020-04-12T03:55:58.511Z",
+    "updated_at": "2020-04-11T19:52:26.159Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b83",
+    "rating_text": "Atque enim inventore est expedita.",
+    "rating": 1,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bd4",
+    "created_at": "2020-04-11T20:05:41.847Z",
+    "updated_at": "2020-04-12T02:40:59.710Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b84",
+    "rating_text": "Dicta laborum ipsum.\nRecusandae vel qui placeat.\nVoluptatem deserunt quo at.",
+    "rating": 5,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd4",
+    "created_at": "2020-04-11T12:49:43.829Z",
+    "updated_at": "2020-04-11T23:19:32.485Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b85",
+    "rating_text": "Quia numquam repellat earum unde aut sit.",
+    "rating": 1,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd1",
+    "created_at": "2020-04-11T13:37:26.574Z",
+    "updated_at": "2020-04-12T09:57:58.221Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b86",
+    "rating_text": "Possimus quia exercitationem.\nCumque quisquam explicabo placeat est optio.",
+    "rating": 3,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd7",
+    "created_at": "2020-04-11T12:57:36.738Z",
+    "updated_at": "2020-04-12T02:02:52.671Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b87",
+    "rating_text": "Voluptas occaecati rem sunt est amet et.\nSunt debitis voluptates accusamus iusto autem iure sed.\nUt enim magnam mollitia modi atque delectus unde praesentium suscipit.\nQuia ut ex possimus et commodi ut ipsam iusto.\nNemo ut beatae possimus id omnis repellendus.",
+    "rating": 2,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd7",
+    "created_at": "2020-04-11T14:33:39.695Z",
+    "updated_at": "2020-04-11T17:56:58.594Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b88",
+    "rating_text": "Molestiae cum placeat laborum cupiditate earum.\nError occaecati et dicta quae hic et.\nDolore fugit dolores tempora ut rerum et hic.\nPraesentium et temporibus ex.\nOfficiis ut optio culpa quis hic beatae occaecati.",
+    "rating": 4,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bdc",
+    "created_at": "2020-04-12T01:36:03.398Z",
+    "updated_at": "2020-04-11T17:08:02.984Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b89",
+    "rating_text": "Veritatis voluptatem nihil vel.\nVoluptatem veniam delectus consectetur consequuntur quis odio.",
+    "rating": 2,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bda",
+    "created_at": "2020-04-12T09:06:34.116Z",
+    "updated_at": "2020-04-12T05:19:24.683Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b8a",
+    "rating_text": "Repellat sed porro rerum.\nAut recusandae dolor eligendi rerum occaecati quia ipsum et.",
+    "rating": 4,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bda",
+    "created_at": "2020-04-12T09:31:39.978Z",
+    "updated_at": "2020-04-11T13:03:10.783Z"
+  }
+]

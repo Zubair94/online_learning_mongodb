@@ -1,0 +1,298 @@
+[
+  {
+    "_id": "5e92f1d1a92f1031941df03c",
+    "title": "Future Infrastructure Associate",
+    "slug": "quia-maxime-omnis",
+    "metadata": {
+      "section_count": 2,
+      "sections": [
+        {
+          "lecture_count": 2
+        },
+        {
+          "lecture_count": 1
+        }
+      ]
+    },
+    "short_description": "Tempore repudiandae aut et ducimus nesciunt consequatur.\nVoluptatem et sed.",
+    "description": "Sequi tempore cupiditate optio dolores et molestiae dolor repudiandae quos. Consequatur et saepe ut et eos quod qui. Eaque ex aliquam harum nihil est. Est voluptates architecto est quasi molestiae corporis commodi sed qui. Iure aut dolor quod magni consectetur quis perspiciatis. Accusantium quae voluptas tempore corporis dolorum.",
+    "preview_video": "https://aniya.org",
+    "preview_video_thumbnail": "https://elisha.net",
+    "images": [
+      {
+        "link": "https://zula.name",
+        "sort_order": 1
+      },
+      {
+        "link": "https://modesta.info",
+        "sort_order": 2
+      },
+      {
+        "link": "https://ruth.name",
+        "sort_order": 3
+      }
+    ],
+    "price": "606.00",
+    "duration": 2930,
+    "featured": true,
+    "sections": [
+      {
+        "_id": "5e92f1d1a92f1031941df03d",
+        "section_id": 1,
+        "slug": "laborum-aut-corrupti",
+        "title": "Product Branding Producer",
+        "description": "Rerum expedita voluptatem iure omnis repellendus ratione distinctio nulla dolore. Dolores odio consequatur molestiae. Doloremque ut expedita unde delectus natus. Doloribus omnis et eos. Natus voluptate ut voluptatum dolor.",
+        "duration": 1800,
+        "sort_order": 1,
+        "lectures": [
+          {
+            "_id": "5e92f1d1a92f1031941df03e",
+            "lecture_id": 1,
+            "slug": "et-sapiente-qui",
+            "title": "Investor Tactics Specialist",
+            "description": "In deleniti harum sapiente non voluptatum sint excepturi deleniti incidunt. Rerum enim nam repellendus et aut repudiandae nobis qui et. Dolor maxime similique reprehenderit provident eum veritatis voluptate.",
+            "duration": 950,
+            "video": "http://percival.name",
+            "video_thumbnail": "https://elroy.name",
+            "sort_order": 1
+          },
+          {
+            "_id": "5e92f1d1a92f1031941df03f",
+            "lecture_id": 1,
+            "slug": "dolorem-necessitatibus-debitis",
+            "title": "Customer Communications Designer",
+            "description": "Aut et ipsum officia id. Veritatis recusandae eveniet neque suscipit odit alias harum modi ut. Rem est esse est odit. Quas quasi voluptatum facere iste tempora commodi aut. Maxime qui velit doloribus iusto. Eos neque non iste dolor et sed.",
+            "duration": 950,
+            "video": "http://sedrick.net",
+            "video_thumbnail": "https://yvonne.name",
+            "sort_order": 2
+          }
+        ]
+      },
+      {
+        "_id": "5e92f1d1a92f1031941df040",
+        "section_id": 2,
+        "slug": "ut-aut-rerum",
+        "title": "District Web Designer",
+        "description": "Ipsam dolores pariatur. Voluptatibus saepe architecto voluptates temporibus. Ex molestias rem laudantium quibusdam quia. Ipsum est sunt. Odit et velit dolore ipsa et non placeat est.",
+        "duration": 1130,
+        "sort_order": 1,
+        "lectures": [
+          {
+            "_id": "5e92f1d1a92f1031941df041",
+            "lecture_id": 1,
+            "slug": "iste-unde-ut",
+            "title": "Product Assurance Liaison",
+            "description": "Sint quia aut velit reprehenderit nostrum in. Quas quo quo. Iusto repellendus fugit culpa vel facere recusandae exercitationem.",
+            "duration": 850,
+            "video": "https://selena.name",
+            "video_thumbnail": "http://maude.info",
+            "sort_order": 1
+          }
+        ]
+      }
+    ],
+    "assessment": [
+      {
+        "question": "Molestiae minus voluptatem.",
+        "options": [
+          "ut id accusantium est",
+          "aut dolor aut sed",
+          "incidunt vero ea ducimus",
+          "eos voluptatem ea consequatur"
+        ],
+        "answer": "ut id accusantium est"
+      },
+      {
+        "question": "Ipsam incidunt rerum inventore aut quaerat eum enim quas est.",
+        "options": [
+          "ut eos voluptatum iste",
+          "illo vel rerum eaque",
+          "esse inventore velit sint",
+          "aperiam odit perspiciatis fuga"
+        ],
+        "answer": "esse inventore velit sint"
+      },
+      {
+        "question": "Expedita ut molestiae.\nEt ut autem voluptatibus placeat est id.",
+        "options": [
+          "dolor dolores eligendi est",
+          "quis asperiores culpa voluptatem",
+          "inventore quia autem et",
+          "qui ratione nulla pariatur"
+        ],
+        "answer": "dolor dolores eligendi est"
+      },
+      {
+        "question": "Tenetur officiis voluptate ex.\nOptio praesentium cumque eos aut quis nesciunt omnis nam.\nOdit molestiae doloremque temporibus quibusdam fuga ex.\nEa a occaecati unde occaecati assumenda.\nOmnis eius ducimus amet.",
+        "options": [
+          "et expedita aut vero",
+          "aspernatur dolor in nisi",
+          "voluptatem tempore accusantium quis",
+          "quia saepe sint quia"
+        ],
+        "answer": "aspernatur dolor in nisi"
+      },
+      {
+        "question": "Qui eum hic distinctio praesentium.\nAt eveniet dolore provident rerum consequuntur doloribus dolores vitae eos.\nVoluptatibus non quia quia.\nNisi et sunt aliquam id.",
+        "options": [
+          "enim magnam qui dicta",
+          "iusto voluptatum est id",
+          "non suscipit et eveniet",
+          "vel mollitia nostrum vitae"
+        ],
+        "answer": "vel mollitia nostrum vitae"
+      }
+    ],
+    "created_at": "2020-04-12T04:12:59.863Z",
+    "updated_at": "2020-04-12T00:32:08.564Z"
+  },
+  {
+    "_id": "5e92f1d1a92f1031941df042",
+    "title": "National Branding Facilitator",
+    "slug": "deleniti-voluptas-voluptatem",
+    "metadata": {
+      "section_count": 2,
+      "sections": [
+        {
+          "lecture_count": 2
+        },
+        {
+          "lecture_count": 1
+        }
+      ]
+    },
+    "short_description": "Eligendi accusantium nulla quos sit autem quod autem est aut.\nCorporis sint laborum iure.\nNecessitatibus et mollitia error ut rem.\nOfficia sint consequuntur.",
+    "description": "Maiores voluptate ab aliquid occaecati odit repellendus voluptatem. Itaque nisi velit ad. Quas sequi in dicta suscipit voluptatem. Modi modi fugit sunt.",
+    "preview_video": "http://harry.com",
+    "preview_video_thumbnail": "http://kathryn.info",
+    "images": [
+      {
+        "link": "http://delilah.org",
+        "sort_order": 1
+      },
+      {
+        "link": "http://arnaldo.com",
+        "sort_order": 2
+      },
+      {
+        "link": "http://ken.name",
+        "sort_order": 3
+      }
+    ],
+    "price": "921.00",
+    "duration": 2930,
+    "featured": true,
+    "sections": [
+      {
+        "_id": "5e92f1d1a92f1031941df043",
+        "section_id": 1,
+        "slug": "aliquid-et-consectetur",
+        "title": "Central Factors Assistant",
+        "description": "Et fugiat et enim unde atque. Fugiat quibusdam ullam quibusdam accusantium veritatis ut perspiciatis illo. Praesentium commodi inventore qui consequuntur placeat deserunt non veritatis. Architecto quo doloribus qui voluptatem omnis. Velit quod et ea optio non.",
+        "duration": 1800,
+        "sort_order": 1,
+        "lectures": [
+          {
+            "_id": "5e92f1d1a92f1031941df044",
+            "lecture_id": 1,
+            "slug": "veritatis-ad-magnam",
+            "title": "Dynamic Branding Architect",
+            "description": "Ut dicta odit. Voluptatem molestiae natus et accusamus qui rerum quis doloribus molestiae. Perspiciatis doloribus velit sint eum cumque. Suscipit accusamus id sequi. Ut fuga ut excepturi dolor.",
+            "duration": 950,
+            "video": "http://lina.biz",
+            "video_thumbnail": "http://jackson.biz",
+            "sort_order": 1
+          },
+          {
+            "_id": "5e92f1d1a92f1031941df045",
+            "lecture_id": 1,
+            "slug": "quisquam-ipsa-reiciendis",
+            "title": "Corporate Creative Analyst",
+            "description": "Quis velit voluptas praesentium autem quaerat soluta sed ipsum. Quaerat accusamus accusantium rerum eos neque officiis ut. Quibusdam aut eum. Aut consequatur quos aliquam quasi commodi sit saepe. Minima qui eos voluptatem.",
+            "duration": 950,
+            "video": "https://raoul.com",
+            "video_thumbnail": "https://sage.info",
+            "sort_order": 2
+          }
+        ]
+      },
+      {
+        "_id": "5e92f1d1a92f1031941df046",
+        "section_id": 2,
+        "slug": "aspernatur-et-et",
+        "title": "Global Metrics Developer",
+        "description": "Ut sit quia repudiandae commodi labore sit esse nam voluptatum. Ea nulla impedit quisquam saepe. Iusto sed eum. Repellat consectetur est soluta.",
+        "duration": 1130,
+        "sort_order": 1,
+        "lectures": [
+          {
+            "_id": "5e92f1d1a92f1031941df047",
+            "lecture_id": 1,
+            "slug": "dolor-libero-sint",
+            "title": "Product Division Orchestrator",
+            "description": "Optio dolore sunt neque accusamus. Sunt velit occaecati voluptatum. Sit nisi aspernatur harum delectus aliquam eum quasi. Quibusdam reprehenderit dolores beatae dolore voluptate in. In architecto aut.",
+            "duration": 850,
+            "video": "https://crystel.net",
+            "video_thumbnail": "http://anna.net",
+            "sort_order": 1
+          }
+        ]
+      }
+    ],
+    "assessment": [
+      {
+        "question": "Exercitationem unde et necessitatibus et error.",
+        "options": [
+          "tenetur sunt ut sunt",
+          "et porro explicabo expedita",
+          "ea quia facere non",
+          "alias sint animi quia"
+        ],
+        "answer": "tenetur sunt ut sunt"
+      },
+      {
+        "question": "Voluptates ducimus beatae totam itaque nihil.\nUt numquam numquam corrupti est ab vero dolorem.",
+        "options": [
+          "soluta necessitatibus doloribus quis",
+          "unde ad maxime voluptatem",
+          "libero quia rerum maxime",
+          "ut exercitationem nobis in"
+        ],
+        "answer": "soluta necessitatibus doloribus quis"
+      },
+      {
+        "question": "Dolorem ut a.\nDeleniti voluptatem rem sit facilis omnis dolores eos repudiandae dolorum.\nRem omnis et culpa libero sequi blanditiis similique nisi voluptas.\nEnim et consectetur harum qui rerum quia.\nCupiditate incidunt rerum eius dolore.",
+        "options": [
+          "reprehenderit aperiam dolores fuga",
+          "dolore et totam impedit",
+          "ipsum inventore impedit et",
+          "veritatis doloribus quod at"
+        ],
+        "answer": "dolore et totam impedit"
+      },
+      {
+        "question": "Quos ut nemo repellat quas sed eum cumque est ea.\nExercitationem odit quibusdam quis ex.\nUnde aliquid fuga omnis modi.",
+        "options": [
+          "deleniti tenetur dolore ea",
+          "rerum iure quia non",
+          "dolor voluptatum aliquid tenetur",
+          "iusto ex ducimus nulla"
+        ],
+        "answer": "iusto ex ducimus nulla"
+      },
+      {
+        "question": "Amet non quod et consectetur occaecati ex.",
+        "options": [
+          "minima perspiciatis ea rerum",
+          "corrupti deserunt aliquid natus",
+          "in ut labore saepe",
+          "cupiditate id at nostrum"
+        ],
+        "answer": "cupiditate id at nostrum"
+      }
+    ],
+    "created_at": "2020-04-12T06:53:58.848Z",
+    "updated_at": "2020-04-11T23:46:49.945Z"
+  }
+]

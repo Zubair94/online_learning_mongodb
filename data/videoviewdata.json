@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "5e92f930c1352d44b0954b8b",
+    "completed": true,
+    "completedPercent": 69,
+    "view_count": 2914,
+    "section_id": 2,
+    "lecture_id": 1,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd3",
+    "created_at": "2020-04-11T16:31:11.782Z",
+    "updated_at": "2020-04-12T00:12:06.577Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b8c",
+    "completed": true,
+    "completedPercent": 1,
+    "view_count": 521,
+    "section_id": 2,
+    "lecture_id": 1,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd1",
+    "created_at": "2020-04-12T01:55:48.730Z",
+    "updated_at": "2020-04-12T08:37:09.033Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b8d",
+    "completed": true,
+    "completedPercent": 38,
+    "view_count": 546,
+    "section_id": 1,
+    "lecture_id": 2,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bd7",
+    "created_at": "2020-04-11T12:10:08.405Z",
+    "updated_at": "2020-04-11T14:51:36.689Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b8e",
+    "completed": true,
+    "completedPercent": 42,
+    "view_count": 259,
+    "section_id": 2,
+    "lecture_id": 1,
+    "course_id": "5e92f1d1a92f1031941df03c",
+    "user_id": "5e8c6d0b19035043b84e8bd8",
+    "created_at": "2020-04-12T08:06:17.507Z",
+    "updated_at": "2020-04-12T06:59:42.226Z"
+  },
+  {
+    "_id": "5e92f930c1352d44b0954b8f",
+    "completed": true,
+    "completedPercent": 43,
+    "view_count": 1184,
+    "section_id": 2,
+    "lecture_id": 1,
+    "course_id": "5e92f1d1a92f1031941df042",
+    "user_id": "5e8c6d0b19035043b84e8bd8",
+    "created_at": "2020-04-12T01:10:00.475Z",
+    "updated_at": "2020-04-11T21:12:19.898Z"
+  }
+]
